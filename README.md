@@ -1,4 +1,2 @@
 # Netmiko_Course
-My git line.
-
-My GitHub line.
+Files from Kirk Byers netmiko python course for network engineers
